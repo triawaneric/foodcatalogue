@@ -1,6 +1,11 @@
 # foodcatalogue
 
-A new Flutter project.
+Food Catalogue 
+
+REST API : https://www.themealdb.com
+
+Clean Archteture using BLOC 
+DIO
 
 ## Getting Started
 
