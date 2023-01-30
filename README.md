@@ -2,10 +2,12 @@
 
 Food Catalogue 
 
-[![Watch the video](https://drive.google.com/file/d/1lN4zAi-sHnebVXCk2ofx7X5DTcQQDtov/view?usp=share_link)
 
 
 ![img](https://github.com/triawaneric/foodcatalogue/blob/main/Screenshot_20230130_153252.png)
+
+VIDEO link
+https://drive.google.com/file/d/1lN4zAi-sHnebVXCk2ofx7X5DTcQQDtov/view?usp=share_link
 
 
 REST API : https://www.themealdb.com
